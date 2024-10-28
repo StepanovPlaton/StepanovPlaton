@@ -1,9 +1,7 @@
-<h3 align="center">
+<h1 align="center">
   Hi👋, I'm Platon <br>
   I'm a сheerful software developer 💻
-</h3>
-
----
+</h1>
 
 - 💻 I'm currently working as a **middle React developer** 
 
