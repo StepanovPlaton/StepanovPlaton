@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Platon</h1>
-<p align="center">
-  [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=I'm%20a%20сheerful%20software%20developer👨‍💻&width=800&height=200)](https://github.com/Akshay090/svg-banners)
-</p>
 
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=I'm%20a%20сheerful%20software%20developer👨‍💻&width=800&height=200)](https://github.com/Akshay090/svg-banners)
 
 - 💻 I'm currently working as a **middle React developer** 
 
@@ -19,7 +17,7 @@
 - 💬 Ask me about **Web, Python, GNU/Linux (and everything 😁)**
 
 - 📫 How to reach me **@StepanovPlaton / mail2platon@yandex.ru**
-<p>
+<div style="display:flex; gap: 10">
   <h3 align="center">Skills and topics that interest me</h3>
 
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg">
@@ -41,7 +39,7 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg">
-</p>
+</div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stepanovplaton&show_icons=true&theme=dark&locale=en&layout=compact" alt="stepanovplaton" /></p>
 
