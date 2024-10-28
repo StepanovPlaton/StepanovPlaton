@@ -1,5 +1,5 @@
-<h3 align="center">Hi👋, I'm Platon</h3>
-<p align="center">I'm a сheerful software developer 👨‍💻</p>
+<h2 align="center">Hi👋, I'm Platon</h2>
+<h3 align="center">I'm a сheerful software developer 👨‍💻</h3>
 
 ---
 
