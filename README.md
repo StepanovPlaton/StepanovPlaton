@@ -1,4 +1,4 @@
-# [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi%20👋,%20I'm%20Platon%0AI'm%20a%20сheerful%20software%20developer👨‍💻&width=800&height=300)](https://github.com/Akshay090/svg-banners)
+# [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi%20👋,%20I'm%20Platon&text2=I'm%20a%20сheerful%20software%20developer👨‍💻&width=800&height=300)](https://github.com/Akshay090/svg-banners)
 
 
 - 💻 I'm currently working as a **middle React developer** 
