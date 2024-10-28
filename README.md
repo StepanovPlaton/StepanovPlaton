@@ -1,5 +1,7 @@
-<h2 align="center">Hi👋, I'm Platon</h2>
-<h3 align="center">I'm a сheerful software developer 👨‍💻</h3>
+<h3 align="center">
+  Hi👋, I'm Platon <br>
+  I'm a сheerful software developer 💻
+</h3>
 
 ---
 
