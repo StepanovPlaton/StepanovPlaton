@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Platon</h1>
-<h3 align="center">A friendly developer from Russia</h3>
+<p align="center">
+  [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=I'm%20a%20сheerful%20software%20developer👨‍💻&width=800&height=200)](https://github.com/Akshay090/svg-banners)
+</p>
 
-- 🔭 I'm interested in **Web-development, GNU/Linux**
 
-- 🌱 I’m currently learning **Angular+Ionic, Python+FastAPI, GNU/Linux**
+- 💻 I'm currently working as a **middle React developer** 
+
+- 🔭 I'm interested in **Fullstack-development, GNU/Linux**
+
+- 🌱 I’m currently learning **Vue.js, Python+FastAPI, GNU/Linux**
 
 - 👯 I'm liking the podcast ["Мы обречены"](https://www.youtube.com/channel/UCUSbYJK87rpBUJ5KGQd7oHA)
 
@@ -11,20 +16,32 @@
 
 - 📄 Know about my experiences [https://samara.hh.ru/resume/15c78a92ff09c786890039ed1f6f7474704952](https://samara.hh.ru/resume/15c78a92ff09c786890039ed1f6f7474704952)
 
-- 💬 Ask me about **Web, python (and everything 😁)**
+- 💬 Ask me about **Web, Python, GNU/Linux (and everything 😁)**
 
 - 📫 How to reach me **@StepanovPlaton / mail2platon@yandex.ru**
+<p>
+  <h3 align="center">Skills and topics that interest me</h3>
 
-- 🤟 Thanks [https://rahuldkjain.github.io/gh-profile-readme-generator/](https://rahuldkjain.github.io/gh-profile-readme-generator/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Angular/angular1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg">
 </p>
 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stepanovplaton&show_icons=true&theme=dark&locale=en&layout=compact" alt="stepanovplaton" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stepanovplaton&show_icons=true&theme=dark&locale=en" alt="stepanovplaton" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stepanovplaton&theme=dark" alt="stepanovplaton" /></p>
 
