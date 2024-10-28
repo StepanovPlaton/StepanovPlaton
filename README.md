@@ -1,5 +1,7 @@
-# [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi%20👋,%20I'm%20Platon&text2=I'm%20a%20сheerful%20software%20developer👨‍💻&width=800&height=300)](https://github.com/Akshay090/svg-banners)
+<h3 align="center">Hi👋, I'm Platon</h3>
+<p align="center">I'm a сheerful software developer 👨‍💻</p>
 
+---
 
 - 💻 I'm currently working as a **middle React developer** 
 
