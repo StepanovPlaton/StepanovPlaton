@@ -9,46 +9,52 @@
 - 📫 Вы можете связательно со мной через **Telegram ([@StepanovPlaton](https://t.me/StepanovPlaton))**
 
 ### Этим я владею в совершенстве 🔥
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Prettier/prettier1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Obsidian/obsidian1.svg">
+<div style="display:flex; flex-wrap: wrap;">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Prettier/prettier1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Obsidian/obsidian1.svg">
+</div>
 
 ### Это я изучаю 🌱
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Neovim/neovim1.svg">
+<div style="display:flex; flex-wrap: wrap;">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Neovim/neovim1.svg">
+</div>
 
 ### Это мне интересно 💻
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Astro/astro1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Angular/angular1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NestJS/nestjs1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arduino/arduino1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/RaspberryPI/raspberrypi1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Dart/dart1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux1.svg">
+<div style="display:flex; flex-wrap: wrap;">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Astro/astro1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Angular/angular1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NestJS/nestjs1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arduino/arduino1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/RaspberryPI/raspberrypi1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Dart/dart1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux1.svg">
+</div>
 
 ---
 
