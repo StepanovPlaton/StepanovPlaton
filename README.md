@@ -71,7 +71,7 @@
   >
   > [Frontend](https://github.com/StepanovPlaton/jelly_belly_wiki): TypeScript, React 18, Next.js 14 (App Router), Tailwind CSS, Zod
 - **[Chat](https://github.com/StepanovPlaton/Chat)**, 2025
-  > Тестовое задание перед одним из собеседований. Написано за 10 часов. Анонимный асинхронный мессенджер
+  > Тестовое задание перед одним из собеседований. Написано за 10 часов. Анонимный мессенджер
   >
   > [Frontend](https://github.com/StepanovPlaton/Chat/tree/main/frontend): TypeScript, React 19, Next.js 15 (App Router), Tailwind CSS, Yup, SWR
   > 
