@@ -30,6 +30,7 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NestJS/nestjs1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch1.svg">
@@ -40,7 +41,6 @@
 <div style="display:flex; flex-wrap: wrap;">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Astro/astro1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Angular/angular1.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NestJS/nestjs1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg">
@@ -60,6 +60,12 @@
 
 ## Проекты, которыми я горжусь
 
+- **[Chat](https://github.com/StepanovPlaton/Chat)**, 2025
+  > Тестовое задание перед одним из собеседований. Написано за 10 часов. Анонимный мессенджер
+  >
+  > [Frontend](https://github.com/StepanovPlaton/Chat/tree/main/frontend): TypeScript, React 19, Next.js 15 (App Router), Tailwind CSS, Yup, SWR
+  > 
+  > [Backend](https://github.com/StepanovPlaton/Chat/tree/main/backend): TypeScript, Nest 11, TypeORM, Swagger UI Express, PostgreSQL
 - **.Torrent**, 2024
   > SSR Web-приложение для обмена .torrent файлами
   > 
@@ -70,12 +76,6 @@
   > Тестовое задание перед одним из собеседований. Написано за 10 часов. [Сайт о бобах JellyBelly](https://jelly-belly-wiki.vercel.app/), основанный на [открытом API](https://jelly-belly-wiki.netlify.app/)
   >
   > [Frontend](https://github.com/StepanovPlaton/jelly_belly_wiki): TypeScript, React 18, Next.js 14 (App Router), Tailwind CSS, Zod
-- **[Chat](https://github.com/StepanovPlaton/Chat)**, 2025
-  > Тестовое задание перед одним из собеседований. Написано за 10 часов. Анонимный мессенджер
-  >
-  > [Frontend](https://github.com/StepanovPlaton/Chat/tree/main/frontend): TypeScript, React 19, Next.js 15 (App Router), Tailwind CSS, Yup, SWR
-  > 
-  > [Backend](https://github.com/StepanovPlaton/Chat/tree/main/backend): TypeScript, Nest 11, TypeORM, Swagger UI Express, PostgreSQL
 - **[Nand2Tetris](https://github.com/StepanovPlaton/Nand2Tetris)**, 2024
   > Работы по курсу [Nand2tetris](https://www.nand2tetris.org/), основанного на книге [The Elements of Computing Systems: Building a Modern Computer From First Principles](https://cmls-global.com/wp-content/uploads/2021/08/The-elements-of-computing-systems-building-a-modern-computer.pdf), в рамках которого мы с нуля создадим 16-битный компьютер, способный запустить тетрис
 - **[Расписание СамГУ](https://github.com/StepanovPlaton/SSAU_Schedule)**, 2024
