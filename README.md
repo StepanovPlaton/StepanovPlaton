@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Привет+✋,+я+Платон;Приятно+познакомиться!&size=30&color=FFFFFF&center=true&duration=2000&pause=2000&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Привет+✋,+я+Платон;Приятно+познакомиться!&size=30&color=FFFFFF&center=true&duration=2000&pause=2000&height=50">
 </h1>
 
 - 💻 Сейчас я работаю **React разработчиком**, в [студии МОСТ](https://web-most.ru) и занимаюсь разработкой [Школы будущего](https://schoolofthefuture.ru)
