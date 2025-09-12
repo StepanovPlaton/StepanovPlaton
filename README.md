@@ -35,6 +35,7 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Neovim/neovim1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux1.svg">
 </div>
 
 ### Это мне интересно 💻
@@ -53,7 +54,6 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Dart/dart1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter1.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux1.svg">
 </div>
 
 ---
