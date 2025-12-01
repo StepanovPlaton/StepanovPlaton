@@ -61,9 +61,11 @@
 ## Проекты, которыми я горжусь
 - **[Neural Network++](https://github.com/StepanovPlaton/NeuralNetwork)**, 2025
   > Neural Network++ - это движок для создания нейронных сетей написанный на С++, поддерживающий вычисления на GPU с помощью OpenCL, компилируемый в библиотеку для Python
+  > 
   > Стек: С++23, OpenCL, Python
 - **[C3DGraphicEngine](https://github.com/StepanovPlaton/C3DGraphicEngine)**, 2025
   > C3DGraphicEngine - это кроссплатформенный графический 3D движок, написанный с полного нуля на чистом С. Работает на Windows, Linux, и даже на микроконтроллерах!
+  > 
   > Стек: С23, Windows.h (Win), XLib.h (Unix-like), TVOut (Микроконтроллеры)
 - **[Chat](https://github.com/StepanovPlaton/Chat)**, 2025
   > Тестовое задание перед одним из собеседований. Написано за 10 часов. Анонимный мессенджер
