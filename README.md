@@ -63,6 +63,12 @@
   > Neural Network++ - это движок для создания нейронных сетей написанный на С++, поддерживающий вычисления на GPU с помощью OpenCL, компилируемый в библиотеку для Python
   > 
   > Стек: С++23, OpenCL, Python
+- **[Система распознавания и генерации документов автосалона "Первый километр"](https://github.com/StepanovPlaton/FirstKilometer), 2025**
+  > Автоматическая генерация документов с использованием данных клиентов, извлечённых из отсканированных документов с помощью конвейера нейронных сетей
+  >
+  > [Frontend](https://github.com/StepanovPlaton/FirstKilometerFrontend): TypeScript, React 19, Next.js 15 (App Router), Ant Design 5, SWR, Zod
+  > 
+  > Backend: Python 3.12, Django 5.2.4, Paddle 3.1, RapidFuzz
 - **[C3DGraphicEngine](https://github.com/StepanovPlaton/C3DGraphicEngine)**, 2025
   > C3DGraphicEngine - это кроссплатформенный графический 3D движок, написанный с полного нуля на чистом С. Работает на Windows, Linux, и даже на микроконтроллерах!
   > 
