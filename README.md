@@ -99,5 +99,3 @@
   > [Android](https://github.com/StepanovPlaton/SSAU_Schedule): Kotlin, Jetpack Compose, Material Design 3, Room, Glance, OkHttp
 - **[University Brain](https://github.com/StepanovPlaton/university_brain)**, 2023-2024
   > **[Онлайн база знаний](https://stepanovplaton.github.io/university_brain_2023_01/)** собранная потоком СамГУ ФИИТ 2023-2024 и курируемая мной. Создана с помощью программы [Obsidian](https://obsidian.md/) и генератора статических сайтов [Quartz](https://quartz.jzhao.xyz)
-
-<img src="metrics.svg" alt="Metrics" width="100%">
