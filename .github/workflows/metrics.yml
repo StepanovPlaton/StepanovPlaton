@@ -27,10 +27,7 @@ jobs:
           plugin_code: yes
           plugin_code_languages: typescript, python, c, c++
           plugin_code_load: 400
-          plugin_licenses: yes
-          plugin_licenses_setup: npm ci
+          plugin_code_days: 90
           plugin_16personalities: yes
           plugin_16personalities_url: ${{ secrets.SIXTEEN_PERSONALITIES_URL }}
-          plugin_16personalities_sections: personality, traits
-          plugin_16personalities_scores: no
-          config_order: base.header, languages
+          plugin_16personalities_sections: personality, profile, traits
