@@ -19,10 +19,18 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.svg
           config_timezone: Europe/Samara
-          base: header, activity, community, metadata
+          base: header, activity
           plugin_lines: yes
           plugin_languages: yes
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: no
-          config_order: base.header, languages, habits
+          plugin_languages_ignored: >-
+            html, css, scss, less, makefile, qmake, lex, cmake
+          plugin_code: yes
+          plugin_code_languages: typescript, python, c, c++
+          plugin_code_load: 400
+          plugin_licenses: yes
+          plugin_licenses_setup: npm ci
+          plugin_16personalities: yes
+          plugin_16personalities_url: ${{ secrets.SIXTEEN_PERSONALITIES_URL }}
+          plugin_16personalities_sections: personality, traits
+          plugin_16personalities_scores: no
+          config_order: base.header, languages
