@@ -6,7 +6,7 @@
 - 🔭 Я увлекаюсь **Fullstack разработкой и GNU/Linux системами**
 - 🌱 Я изучаю **Vue.js, Python+FastAPI, администрирование GNU/Linux**
 - 📄 Если вам понравились мои проекты, **обязательно посмотрите [моё резюме](https://samara.hh.ru/resume/15c78a92ff09c786890039ed1f6f7474704952)**!
-- 📫 Вы можете связательно со мной через **Telegram ([@StepanovPlaton](https://t.me/StepanovPlaton))**
+- 📫 Вы можете связаться со мной через **Telegram ([@StepanovPlaton](https://t.me/StepanovPlaton))**
 
 ![](https://www.codewars.com/users/StepanovPlaton/badges/large)
 
