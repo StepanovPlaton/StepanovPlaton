@@ -61,6 +61,8 @@
 ---
 
 ## Проекты, которыми я горжусь
+- **[Home Server Services](https://github.com/StepanovPlaton/HomeServerServices)**, 2026
+  > Home Server Services - это полный набор сервисов в Docker для организации моего домашнего сервера!
 - **[Neural Network++](https://github.com/StepanovPlaton/NeuralNetwork)**, 2025
   > Neural Network++ - это движок для создания нейронных сетей написанный на С++, поддерживающий вычисления на GPU с помощью OpenCL, компилируемый в библиотеку для Python
   > 
