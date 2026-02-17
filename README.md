@@ -8,7 +8,7 @@
 
 ---
 
-<div align="center" style="display: flex; justify-content: space-evenly; align-items: center; margin-top: 40px; width: 100%;">
+<div align="center" style="display: flex; justify-content: space-evenly; align-items: center; margin-top: 40px; min-width: 512px;">
   <a href="https://stepanovplaton.ru/assets/Резюме_Степанов_Платон.pdf" style="font-size: 14px;">Моё резюме</a>
   <a href="https://stepanovplaton.ru" style="font-size: 18px;"><b>Мой сайт</b></a>
   <a href="https://git.stepanovplaton.ru" style="font-size: 14px;">Мой Git</a>
