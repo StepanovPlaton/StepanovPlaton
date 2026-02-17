@@ -8,8 +8,8 @@
 
 ---
 
-<div align="center" style="display: flex; justify-content: space-evenly; align-items: center; margin-top: 40px; min-width: 512px;">
-  <a href="https://stepanovplaton.ru/assets/Резюме_Степанов_Платон.pdf" style="font-size: 14px;">Моё резюме</a>
-  <a href="https://stepanovplaton.ru" style="font-size: 18px;"><b>Мой сайт</b></a>
-  <a href="https://git.stepanovplaton.ru" style="font-size: 14px;">Мой Git</a>
+<div align="center" style="margin-top: 40px;">
+  <a href="https://stepanovplaton.ru/assets/Резюме_Степанов_Платон.pdf" style="font-size: 14px; padding: 0 20px;">Моё резюме</a>
+  <a href="https://stepanovplaton.ru" style="font-size: 18px; padding: 0 20px;"><b>Мой сайт</b></a>
+  <a href="https://git.stepanovplaton.ru" style="font-size: 14px; padding: 0 20px;">Мой Git</a>
 </div>
