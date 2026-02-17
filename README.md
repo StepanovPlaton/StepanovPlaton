@@ -8,8 +8,8 @@
 
 ---
 
-<div align="center" style="margin-top: 40px; display: flex; justify-content: space-evenly; align-items: center; flex-wrap: wrap; gap: 12px;">
-  <a href="https://stepanovplaton.ru/assets/Резюме_Степанов_Платон.pdf" style="display: inline-block; padding: 6px 12px; background-color: #D0A92D; color: white; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 12px; outline: none;">Моё резюме</a>
-  <a href="https://stepanovplaton.ru" style="display: inline-block; padding: 10px 20px; background-color: #D0A92D; color: white; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 14px; outline: none;">Мой сайт</a>
-  <a href="https://git.stepanovplaton.ru" style="display: inline-block; padding: 6px 12px; background-color: #D0A92D; color: white; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 12px; outline: none;">Мой Git</a>
+<div align="center" style="display: flex; justify-content: space-evenly; align-items: center; margin-top: 40px;">
+  <a href="https://stepanovplaton.ru/assets/Резюме_Степанов_Платон.pdf" style="font-size: 14px;">Моё резюме</a>
+  <a href="https://stepanovplaton.ru" style="font-size: 18px;"><b>Мой сайт</b></a>
+  <a href="https://git.stepanovplaton.ru" style="font-size: 14px;">Мой Git</a>
 </div>
