@@ -8,8 +8,4 @@
 
 ---
 
-<div align="center" style="margin-top: 40px;">
-  <a href="https://stepanovplaton.ru/assets/Резюме_Степанов_Платон.pdf" style="font-size: 14px; margin: 0 20px;">Моё резюме</a>
-  <a href="https://stepanovplaton.ru" style="font-size: 18px; margin: 0 20px;"><b>Мой сайт</b></a>
-  <a href="https://git.stepanovplaton.ru" style="font-size: 14px; margin: 0 20px;">Мой Git</a>
-</div>
+<iframe src="https://stepanovplaton.ru" width="100%" height="600" frameborder="0" style="border-radius: 8px; margin-top: 20px;"></iframe>
